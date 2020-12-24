@@ -1,10 +1,10 @@
 <div style="text-align:center">
-<img src="" />
+<img src="bitcoin.png"  style="width:65px;height:65px"/>
 </div>
 
 <h1> Crypto `Chrome Extensions`</h1>
 <hr>
-<img src="screenshot.png" />
+<img src="screenshot.jpg" />
 <hr>
 <h3>Installation</h3>
 
