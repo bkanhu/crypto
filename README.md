@@ -1,5 +1,5 @@
 <div style="text-align:center">
-<img src="bitcoin.png"  style="width:65px;height:65px"/>
+<img src="bitcoin.png"  style="width:60px"/>
 </div>
 
 <h1> Crypto `Chrome Extensions`</h1>
